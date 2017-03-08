@@ -1,5 +1,5 @@
 
-FROM templesofsyrinx/dkr-jdk8-sts:3.7.3-001
+FROM templesofsyrinx/dkr-jdk8-sts:3.7.3-002
 
 # Install GraphViz, IceWeasel and lombok
 ENV \
